@@ -74,8 +74,7 @@ Once the script is running, a GUI window will appear.
 2. Type anywhere on your keyboard.
 3. The captured keystrokes will be displayed in the terminal or the GUI text area (depending on your specific implementation).
 
-> **Note:** Add a GIF or screenshot of your application here to make your README stand out!
-> `![App Demo](path/to/your/demo.gif)`
+![Project Demo](Demo.gif)
 
 ---
 
@@ -83,6 +82,7 @@ Once the script is running, a GUI window will appear.
 
 This project is for educational and demonstration purposes only. Distributed under the MIT License. See `LICENSE` for more information.
 
-![Project Demo](demo.gif)
+
+
 
 
